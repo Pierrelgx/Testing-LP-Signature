@@ -1,4 +1,4 @@
-# 📋 Test Landing Page
+# 📋 Test LP (no responsive pour le moment)
 
 Bienvenue sur le dépôt GitHub de notre **Landing Page de Test**! 🚀
 

@@ -24,8 +24,10 @@ Ce dépôt contient le code source d'une landing page simple utilisée pour test
 ```plaintext
 /
 ├── index.html          # Page principale
-├── styles/             # Fichiers CSS
-│   └── main.css
+├── styles.css/             # Fichiers CSS
+├── cta.css/             # Fichiers CSS
+├── footer.css/             # Fichiers CSS
+├── [...].css/             # Fichiers CSS
 ├── scripts/            # Fichiers JavaScript
-│   └── main.js
-└── assets/             # Images et autres ressources
+└── icons/             # Images et autres ressources
+      └── arrow.svg

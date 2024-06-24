@@ -1,0 +1,90 @@
+.layout2 {
+    width: 1440px;
+    padding: 112px 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 80px;
+}
+
+.layout2-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+}
+
+.layout2-row {
+    width: 1312px;
+    display: flex;
+    justify-content: space-between;
+    gap: 48px;
+}
+
+.layout2-column {
+    width: 405.33px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.layout2-content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+.layout2-icon {
+    width: 48px;
+    height: 48px;
+    background-color: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.layout2-section-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.layout2-title-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33.6px;
+    text-align: center;
+}
+
+.layout2-description {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+}
+
+.layout2-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    padding: 12px 24px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+.chevron-right {
+    margin-left: 8px;
+}
